@@ -4,7 +4,8 @@
 
 **Title:** Game crashes when spamming swipe-back gesture 30+ times on loading screen
 **Issue Type:** Bug
-**Severity:** High / Critical
+**Severity:** Medium
+**Priority:** Medium
 **Environment:** 
 *   **Device:** POCO M6 Pro (Xiaomi)
 *   **OS:** Android 17
